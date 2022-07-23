@@ -1,14 +1,8 @@
-[![Header](https://github.com/KemtaTam/kemtatam/blob/main/assets/naruto-background.gif)](https://github.com/KemtaTam?tab=repositories)
-
 <a href="https://github.com/KemtaTam?tab=repositories">
-  <img src="https://github.com/KemtaTam/kemtatam/blob/main/assets/naruto-background.gif" alt="gif" align="center"/>
+  <img src="https://github.com/KemtaTam/kemtatam/blob/main/assets/naruto-background.gif" alt="gif" width="100%"/>
 </a>
 
 ## I'm interested in frontend development
-
-<a href="#debabin-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=kemtatam&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide=stars,issues,prs" alt="debabin" align="right" />
-</a>
 
 >  General
  
@@ -59,6 +53,10 @@
   </tr> 
 </table>
 
+<a href="#debabin-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=kemtatam&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide=stars,issues,prs" alt="debabin" align="center" />
+</a> 
+<br>
 <a href="#kemtatam-title">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kemtatam&show_icons=true&locale=en&layout=compact&theme=react" alt="kemtatam" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kemtatam&show_icons=true&locale=en&layout=compact&theme=react" alt="kemtatam" />
 </a>
